@@ -1,0 +1,3 @@
+# Personal Projects Repository
+
+Welcome to Anish's Personal Projects Repository! This GitHub organization serves as a central hub for storing and showcasing the personal projects I have worked on. As a passionate developer, I have embarked on various coding endeavors to explore my skills, creativity, and problem-solving abilities. Here, you'll find a collection of repositories that represent my journey of turning ideas into reality.
